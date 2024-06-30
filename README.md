@@ -44,4 +44,5 @@ https://www.kaggle.com/code/umairshahpirzada/tomato-leaf-disease-classification-
 
 # Installation
 ### Clone the repository:
+git clone https://github.com/UmairPirzada/Tomato-leaf-disease-classification.git
 
